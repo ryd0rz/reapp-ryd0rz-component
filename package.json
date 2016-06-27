@@ -1,0 +1,22 @@
+{
+  "name": "reapp-ryd0rz-component",
+  "version": "1.0.2",
+  "description": "ultra simple dependency injection and statics/globals",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir . --stage 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ryd0rz/reapp-ryd0rz-component"
+  },
+  "author": "Nate Wienert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryd0rz/reapp-ryd0rz-component/issues"
+  },
+  "homepage": "https://github.com/ryd0rz/reapp-ryd0rz-component",
+  "devDependencies": {
+    "babel": "^4.7.16"
+  }
+}
